@@ -1,0 +1,127 @@
+#myPhoto {
+    border-radius: 50%;
+}
+
+body {
+    background-color: #000000;
+    color: #9c7a39;
+}
+
+a {
+    text-decoration: none;
+    color: #9c7a39;
+
+}
+
+#contact-me {
+    background-color: #9c7a39;
+}
+
+#my-mail {
+    color:black;
+}
+
+blockquote {
+    font-weight: bold;
+}
+
+button {
+    width: 100px;
+    align-self: center
+}
+
+.my-description {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    align-items: center;
+}
+
+h1, h2 {
+    margin: 0;
+    color: #9c7a39;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.my-text {
+    padding: 1.5em;
+    border: 1px solid #9c7a39;
+}
+
+.hide {
+    border: none;
+}
+
+th, td {
+    border: 1px solid #9c7a39;
+    padding: 0.5em;
+}
+
+
+dd {
+    margin-bottom: 10px;
+}
+
+dt {
+    font-weight:bold;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#language {
+    width: 100px;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+
+
+.socials {
+    display:flex;
+    gap: 15px;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
