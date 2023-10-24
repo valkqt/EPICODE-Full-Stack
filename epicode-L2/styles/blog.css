@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    align-items: center;
+}
+
+#blog-title {
+    font-size: 30px;
+}
+
+#newsletter {
+    margin: 2em 0;
+}
+
+aside {
+    display: flex;
+}
+
+.related-articles {
+    border: 1px solid black;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+caption {
+    margin-bottom: 2px;
+}
+
+table {
+    margin: 2em 0;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 4px;
+}
+
+.post-author {
+    padding-left: 1em;
+    font-size: 14px;
+}
